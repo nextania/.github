@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
+Welcome to Nextflow. Our mission is to bring great useful and functional software to all.
+<!-- Helping the world be a better place -->
 
-**Here are some ideas to get you started:**
+### Our projects
+*
+*
+*
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Resources
+
+### Contributions
+
