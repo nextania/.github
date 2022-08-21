@@ -23,5 +23,7 @@ Here are some internal tools we manage and use:
 ### Contributions
 
 ## Notice
+
 ====
+
 Nextflow projects are protected by their licenses. Before modifying, publishing, or using Nextflow Projects make sure you are following their licenses.
