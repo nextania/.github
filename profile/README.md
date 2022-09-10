@@ -13,6 +13,7 @@ Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be fini
 
 Here are some internal tools we manage and use:
 * [Dashboard](https://github.com/Nextflow-Cloud/dashboard) - administration tools and panel
+* [SAML](https://github.com/Nextflow-Cloud/saml) - SAML server for services needing internal SSO 
 * [Quant](https://github.com/Nextflow-Cloud/quant) - Discord connections
 * [Common](https://github.com/Nextflow-Cloud/common) - common library for Node.js projects
 
