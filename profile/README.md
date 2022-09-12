@@ -7,7 +7,8 @@ Welcome to Nextflow. We make open-source, fast, and useful software.
 * [Easylink](https://app.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/easylink))
 * [Fluidstream](https://stream.nextflow.cloud) (coming soon)
 * [Titaniumdrive](https://files.nextflow.cloud) (coming soon)
-* [Securesearch](https://ss.nextflow.cloud) (coming soon)
+* [Securesearch](https://search.nextflow.cloud) (coming soon)
+* [Nexusvault](https://vault.nextflow.cloud) (coming soon)
 
 Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
 
