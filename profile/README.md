@@ -17,6 +17,7 @@ Here are some internal tools we manage and use:
 * [SAML](https://github.com/Nextflow-Cloud/saml) - SAML server for services needing internal SSO 
 * [Quant](https://github.com/Nextflow-Cloud/quant) - Discord connections
 * [Common](https://github.com/Nextflow-Cloud/common) - common library for Node.js projects
+* [CDN](https://github.com/Nextflow-Cloud/cdn) - CDN and media proxying server
 
 Here are our Minecraft related projects:
 * [Sync Chest](https://github.com/Nextflow-Cloud/sync-chest)
