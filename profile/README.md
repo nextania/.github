@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Nextflow. We make open-source, fast, and useful software.
+Welcome to Nextflow. We make open source, fast, and useful software.
 
 ### Projects
 * [SSO system](https://sso.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/sso-system))
