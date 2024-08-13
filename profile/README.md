@@ -5,10 +5,12 @@ Welcome to Nextflow. We make open source, fast, and useful software.
 ### Projects
 * [SSO system](https://sso.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/sso-system))
 * [Harmony](https://chat.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/harmony))
-* [Fluidstream](https://stream.nextflow.cloud) (coming soon)
-* [Titaniumdrive](https://files.nextflow.cloud) (coming soon)
-* [Securesearch](https://search.nextflow.cloud) (coming soon)
+* [Cloudnest](https://files.nextflow.cloud) (coming soon)
 * [Nexusvault](https://vault.nextflow.cloud) (coming soon)
+
+### On hold
+* [Fluidstream](https://stream.nextflow.cloud)
+* [Securesearch](https://search.nextflow.cloud)
 
 Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
 
