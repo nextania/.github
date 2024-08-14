@@ -9,7 +9,6 @@ Welcome to Nextflow. We make open source, fast, and useful software.
 * [Nexusvault](https://vault.nextflow.cloud) (coming soon)
 
 ### On hold
-* [Fluidstream](https://stream.nextflow.cloud)
 * [Securesearch](https://search.nextflow.cloud)
 
 Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
