@@ -10,6 +10,8 @@ Welcome to Nextflow. We make open source, fast, and useful software.
 
 ### On hold
 * [Securesearch](https://search.nextflow.cloud)
+* [Notebook](https://notes.nextflow.cloud)
+* [Planner](https://agenda.nextflow.cloud)
 
 Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
 
