@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-Welcome to Nextflow. We make open source, fast, and useful software.
+Welcome to Nextania. We make open source, fast, and useful software.
 
 ### Projects
-* [SSO system](https://sso.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/sso-system))
-* [Harmony](https://chat.nextflow.cloud) ([repository](https://github.com/Nextflow-Cloud/harmony))
-* [Cloudnest](https://files.nextflow.cloud) (coming soon)
-* [Nexusvault](https://vault.nextflow.cloud) (coming soon)
+* [Account](https://account.nextania.com) ([repository](https://github.com/Nextflow-Cloud/sso-system))
+* [Harmony](https://chat.nextania.com) ([repository](https://github.com/Nextflow-Cloud/harmony))
+* [Cloudnest](https://files.nextania.com) (coming soon)
+* [Nexusvault](https://vault.nextania.com) (coming soon)
 
 ### On hold
 * [Securesearch](https://search.nextflow.cloud)
 * [Notebook](https://notes.nextflow.cloud)
 * [Planner](https://agenda.nextflow.cloud)
 
-Additionally, here's our [homepage](https://nextflow.cloud) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
+Additionally, here's our [homepage](https://nextania.com) (it's yet to be finished). You can find the repository [here](https://github.com/Nextflow-Cloud/main-page).
 
 Here are some internal tools we manage and use:
 * [Dashboard](https://github.com/Nextflow-Cloud/dashboard) - administration tools and panel
