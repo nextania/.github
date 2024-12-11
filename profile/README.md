@@ -33,4 +33,4 @@ Here are our Minecraft related projects:
 ----
 
 ## Notice
-Nextania projects are protected by their licenses (usually the GNU General Public License or similar). Before modifying, publishing, or using Nextflow projects please make sure you are following their licenses. Thank you.
+Nextania projects are protected by their licenses (usually the GNU General Public License or similar). Before modifying, publishing, or using Nextania projects please make sure you are following their licenses. Thank you.
