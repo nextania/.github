@@ -13,7 +13,7 @@ Welcome to Nextania. We make open source, fast, and useful software.
 * [Notebook](https://notes.nextania.com)
 * [Planner](https://agenda.nextania.com)
 
-Additionally, here's our [homepage](https://nextania.com) (it's yet to be finished). You can find the repository [here](https://github.com/nextania/main-page).
+Additionally, here's our [homepage](https://nextania.com). You can find the repository [here](https://github.com/nextania/main-page).
 
 Here are some internal tools we manage and use:
 * [Dashboard](https://github.com/nextania/dashboard) - administration tools and panel
